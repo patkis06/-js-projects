@@ -6,7 +6,7 @@
 
 body {
   align-items: center;
-  background-color: #242333;
+  background-color: #2f2d48;
   color: #fff;
   display: flex;
   font-family: 'Lato', sans-serif;
@@ -38,7 +38,7 @@ body {
 }
 
 .seat {
-  background-color: #444451;
+  background-color: #7e7e81;
   height: 12px;
   width: 15px;
   margin: 3px;
@@ -51,7 +51,7 @@ body {
 }
 
 .seat.selected {
-  background-color: #6feaf6;
+  background-color: #9cc2f1;
 }
 
 .seat.occupied {
@@ -111,5 +111,5 @@ p.text {
 }
 
 p.text span {
-  color: #6feaf6;
+  color: #9cc2f1;
 }
